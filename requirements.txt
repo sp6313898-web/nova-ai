@@ -1,0 +1,11 @@
+requests
+edge-tts
+sounddevice
+SpeechRecognition
+pywin32
+Pillow
+vosk
+psutil
+pystray
+pypdf
+pyinstaller
